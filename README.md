@@ -1,4 +1,6 @@
+# `dyntrace`
 
+**Dyn**amic **T**ime-series **R**esponse **A**nalysis and **C**omputational **E**stimation
 
 This guidance note provides a brief summary of how to use the developed
 LSTM code for testing. In general, the LSTM code consists of two main

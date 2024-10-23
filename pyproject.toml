@@ -5,6 +5,7 @@ authors = [
   {name="Issac Pang", email="issac.pang@berkeley.edu"}
 ]
 
+description="Dynamic Time-series Response Analysis and Computational Estimation"
 readme = "README.md"
 
 keywords = [
