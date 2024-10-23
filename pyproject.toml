@@ -5,6 +5,7 @@ authors = [
   {name="Claudio M. Perez", email="50180406+issacpang@users.noreply.github.com"}
 ]
 
+description="Dynamic Time-series Response Analysis and Computational Estimation"
 readme = "README.md"
 
 keywords = [
