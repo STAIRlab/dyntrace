@@ -1,8 +1,8 @@
 [project]
 name = "dyntrace"
-version = "0.0.0"
+version = "0.0.1"
 authors = [
-  {name="Claudio M. Perez", email="50180406+issacpang@users.noreply.github.com"}
+  {name="Issac Pang", email="issac.pang@berkeley.edu"}
 ]
 
 readme = "README.md"

@@ -1,0 +1,13 @@
+In order to upload a new release, follow two steps:
+
+1. First build the zip file by running 
+   ```shell
+   python -m build
+   ```
+   This has to be run from the directory that contains the file pyproject.toml. The files created by this operation will be stored in a directory called `dist/`
+
+2. Upload the files to PyPI.org.
+   ```shell
+   python -m twine upload dist/new-version
+   ```
+   where new-version is the files created in the previous step.
